@@ -2,13 +2,3 @@
 This project develops an AI-driven system to detect plagiarism in student assignments using NLP and machine learning. It identifies exact, paraphrased, and semantic similarities across documents, ensuring academic integrity and reducing manual checking for educators.
 
 The AI-Driven Plagiarism Intelligence for Assignments project is designed to enhance academic integrity by detecting various forms of plagiarism in student submissions using advanced Artificial Intelligence and Natural Language Processing (NLP) techniques. Unlike traditional plagiarism tools that rely on exact string matching, this system can identify exact copying, paraphrased content, and even semantic similarities between texts. The process begins by uploading student assignments in formats like PDF or DOCX, after which the text is extracted and preprocessed—removing noise, standardizing content, and converting it into numerical vectors using techniques like TF-IDF or transformer-based models such as BERT. These vectors are then compared across documents or against a reference database to detect similarities using methods like cosine similarity. The system flags potentially plagiarized content based on configurable similarity thresholds and generates a detailed report highlighting suspicious sections and their sources. This tool is beneficial for educators, researchers, and academic institutions as it significantly reduces manual checking efforts and provides accurate, reliable results. It promotes original thinking among students while offering constructive feedback. With potential future enhancements like multilingual support, integration with Learning Management Systems (LMS), and blockchain for secure academic records, this AI-driven system represents a scalable and impactful solution for modern education.
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
